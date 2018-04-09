@@ -1,0 +1,8 @@
+	mc-mm	md-mm	mp-mm	ms-mm	oi-mm	rn-mm
+mc	1	0	0	0	0	0
+md	0	1	0	0	0	0
+mm	-1	-1	-1	-1	-1	-1
+mp	0	0	1	0	0	0
+ms	0	0	0	1	0	0
+oi	0	0	0	0	1	0
+rn	0	0	0	0	0	1
